@@ -1,16 +1,20 @@
-# todoapp_getx
+# TodoApp with GetX
 
-A new Flutter project.
+This is a simple Todo List application built using Flutter and GetX for state management. It fetches data from a dummy API and allows you to manage your tasks.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetch tasks from a dummy API (https://dummyjson.com/todos).
+- Display tasks in a list view.
+- Mark tasks as completed or not.
+- Add new tasks to the list.
 
-A few resources to get you started if this is your first Flutter project:
+![TodoApp Screenshot](assets/1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Zoohaa-Shahbaz/todoapp_getx.git
